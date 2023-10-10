@@ -3,7 +3,8 @@ title: "そのIaC、本当に自動化できてる？ 〜terraform applyはも�
 emoji: "🐈"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["cdktf", "githubactions", "iac", "typescript", "aws"]
-published: false
+published: true
+published_at: 2023-10-11 10:00
 publication_name: "ficilcom"
 ---
 
