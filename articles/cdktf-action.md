@@ -4,7 +4,7 @@ emoji: "🐈"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["cdktf", "githubactions", "iac", "typescript", "aws"]
 published: true
-published_at: 2023-10-11 10:00
+published_at: 2023-10-11 1:00
 publication_name: "ficilcom"
 ---
 
