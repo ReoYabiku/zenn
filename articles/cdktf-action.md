@@ -1,7 +1,7 @@
 ---
 title: "そのIaC、本当に自動化できてる？ 〜terraform applyはもう叩かない〜"
 emoji: "🐈"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "tech"
 topics: ["cdktf", "githubactions", "iac", "typescript", "aws"]
 published: true
 published_at: 2023-10-11 01:00
