@@ -2,8 +2,9 @@
 title: "安価かつスケーラブルなサーバレスバックエンドプラットフォーム　～KoyebとNeonのススメ～"
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Koyeb", "Neon"]
-published: false
+topics: ["Koyeb", "Neon", "postgresql", "container", "serverless"]
+published: true
+published_at: 2024-02-27 08:00
 publication_name: "ficilcom"
 ---
 
@@ -74,9 +75,20 @@ Koyebはコントロールパネルの**UIが直感的**で分かりやすいで
 
 なんとドキュメントから**2クリックでデプロイ**ができるのです。ここでデプロイされるのはKoyebの公式リポジトリですが、Koyebによる**デプロイの勘所を掴む**には十分な体験です。
 
+### 詳細なインスタンス設定
+
+Tokyo Regionを利用することができます。また、インスタンスサイズを指定することもできます。
+
+さらに、waitlistに登録することでオートスケールを利用することもできます。
+
+https://tally.so/r/3X0M84
+
+
 ## Neonって何？
 
 Neonは、Rust製のサーバレスPostgresプラットフォームです。
+
+Koyebとは異なり、現時点ではTokyo Regionに対応していません。弊社ではSingapore Regionを利用しています。今後のTokyo Region対応に期待です。
 
 https://neon.tech/docs/introduction/about
 
